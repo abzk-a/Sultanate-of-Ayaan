@@ -1,0 +1,6 @@
+{
+  "name": "The Sultanate of Ayaan",
+  "description": "A 3D open-world historical Islamic-inspired adventure and kingdom management simulator featuring Sultan Ayaan Ahmed.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
